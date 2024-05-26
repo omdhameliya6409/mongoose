@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "express": "^4.19.2",
+    "goose": "^0.0.3",
+    "mon": "^0.0.8",
+    "mongoose": "^8.4.0"
+  }
+}
